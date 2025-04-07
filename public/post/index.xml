@@ -12,10 +12,10 @@
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Front Matter</title>
-      <link>http://localhost:1313/post/2015-01-04-first-post/</link>
+      <link>http://localhost:1313/post/2025-04-07-first-post/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><author>vineetbansal@protonmail.com (Vineet Bansal)</author>
-      <guid>http://localhost:1313/post/2015-01-04-first-post/</guid>
-      <description>&lt;p&gt;Do I have an original thought in my head? My bald head?  &lt;em&gt;&amp;ndash;Nicholas Cage&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/2025-04-07-first-post/</guid>
+      <description>&lt;p&gt;Do I have an original thought in my head? My bald head?  &lt;em&gt;&amp;ndash;Nicholas Cage, Adaptation&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

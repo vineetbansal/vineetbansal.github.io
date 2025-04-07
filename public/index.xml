@@ -8,21 +8,13 @@
     <language>en</language>
     <managingEditor>vineetbansal@protonmail.com (Vineet Bansal)</managingEditor>
     <webMaster>vineetbansal@protonmail.com (Vineet Bansal)</webMaster>
-    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Front Matter</title>
-      <link>http://localhost:1313/post/2015-01-04-first-post/</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><author>vineetbansal@protonmail.com (Vineet Bansal)</author>
-      <guid>http://localhost:1313/post/2015-01-04-first-post/</guid>
-      <description>&lt;p&gt;Do I have an original thought in my head? My bald head?  &lt;em&gt;&amp;ndash;Nicholas Cage&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>About me</title>
       <link>http://localhost:1313/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>vineetbansal@protonmail.com (Vineet Bansal)</author>
       <guid>http://localhost:1313/page/about/</guid>
-      <description>&lt;h3 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Schmidt, H., Zhang, M., Chakarov, D., Bansal, V., Mourelatos, H., Sanchez-Rivera, F., Lowe, S., Ventura, A., Leslie, C., Pritykin, Y. Genome-wide CRISPR guide RNA design and specificity analysis with GuideScan2. Genome Biol 26, 41 (2025). &lt;a href=&#34;https://doi.org/10.1186/s13059-025-03488-8&#34;&gt;https://doi.org/10.1186/s13059-025-03488-8&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;H. Li et al., &amp;ldquo;How MagNet: Machine Learning Framework for Modeling Power Magnetic Material Characteristics,&amp;rdquo; in IEEE Transactions on Power Electronics, vol. 38, no. 12, pp. 15829-15853, Dec. 2023. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10232863&#34;&gt;https://ieeexplore.ieee.org/document/10232863&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Myers, M.A., Arnold, B.J., Bansal, V. et al. HATCHet2: clone- and haplotype-specific copy number inference from bulk tumor sequencing data. Genome Biol 25, 130 (2024). &lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03267-x&#34;&gt;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03267-x&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Lead Research Software Engineer&lt;/strong&gt; with strong foundation skills and extensive experience in meeting diverse project objectives. Skilled in developing, optimizing and refactoring research code. Worked extensively in research-oriented environments.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; Python, C++, Rust&lt;br&gt;&#xA;&lt;strong&gt;Frameworks/Tools/Platforms:&lt;/strong&gt; Pybind11, CMake, FastAPI, Flask, Docker&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lead Research Software Engineer&lt;/strong&gt; (2025-present)&lt;br&gt;&#xA;&lt;a href=&#34;https://researchcomputing.princeton.edu/&#34;&gt;RESEARCH COMPUTING&lt;/a&gt;, Princeton University&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lead Research Software Engineer&lt;/strong&gt; (2023-2025)&lt;br&gt;&#xA;&lt;strong&gt;Senior Research Software Engineer&lt;/strong&gt; (2020-2023)&lt;br&gt;&#xA;&lt;strong&gt;Research Software Engineer&lt;/strong&gt; (2017-2020)&lt;br&gt;&#xA;&lt;a href=&#34;https://csml.princeton.edu/&#34;&gt;CENTER FOR STATISTICS &amp;amp; MACHINE LEARNING&lt;/a&gt;, Princeton University&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
