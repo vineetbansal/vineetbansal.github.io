@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vineet Bansal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Vineet Bansal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>vineetbansal@protonmail.com (Vineet Bansal)</managingEditor>
+    <webMaster>vineetbansal@protonmail.com (Vineet Bansal)</webMaster>
+    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Front Matter</title>
+      <link>http://localhost:1313/post/2015-01-04-first-post/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><author>vineetbansal@protonmail.com (Vineet Bansal)</author>
+      <guid>http://localhost:1313/post/2015-01-04-first-post/</guid>
+      <description>&lt;p&gt;Do I have an original thought in my head? My bald head?  &lt;em&gt;&amp;ndash;Nicholas Cage&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>vineetbansal@protonmail.com (Vineet Bansal)</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;h3 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Schmidt, H., Zhang, M., Chakarov, D., Bansal, V., Mourelatos, H., Sanchez-Rivera, F., Lowe, S., Ventura, A., Leslie, C., Pritykin, Y. Genome-wide CRISPR guide RNA design and specificity analysis with GuideScan2. Genome Biol 26, 41 (2025). &lt;a href=&#34;https://doi.org/10.1186/s13059-025-03488-8&#34;&gt;https://doi.org/10.1186/s13059-025-03488-8&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;H. Li et al., &amp;ldquo;How MagNet: Machine Learning Framework for Modeling Power Magnetic Material Characteristics,&amp;rdquo; in IEEE Transactions on Power Electronics, vol. 38, no. 12, pp. 15829-15853, Dec. 2023. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10232863&#34;&gt;https://ieeexplore.ieee.org/document/10232863&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Myers, M.A., Arnold, B.J., Bansal, V. et al. HATCHet2: clone- and haplotype-specific copy number inference from bulk tumor sequencing data. Genome Biol 25, 130 (2024). &lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03267-x&#34;&gt;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03267-x&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

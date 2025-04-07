@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vineet Bansal</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Vineet Bansal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>vineetbansal@protonmail.com (Vineet Bansal)</managingEditor>
+    <webMaster>vineetbansal@protonmail.com (Vineet Bansal)</webMaster>
+    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Front Matter</title>
+      <link>http://localhost:1313/post/2015-01-04-first-post/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><author>vineetbansal@protonmail.com (Vineet Bansal)</author>
+      <guid>http://localhost:1313/post/2015-01-04-first-post/</guid>
+      <description>&lt;p&gt;Do I have an original thought in my head? My bald head?  &lt;em&gt;&amp;ndash;Nicholas Cage&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
