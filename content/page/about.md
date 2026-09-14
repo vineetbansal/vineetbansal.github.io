@@ -45,6 +45,8 @@ CENTER FOR LANGUAGE EDUCATION & RESEARCH, Michigan State University, East Lansin
 
 ### Selected Publications [^1]
 
+- Wang, M., Park, J., Tay, S. X., Bansal, V., Rabe, E. J., Kingsbury, R. S. Composition and Critical Mineral Content of Major Industrial Wastewaters: Implications for Treatment and Resource Recovery Technologies. Environ. Sci. Technol. 2026, 60 (33), 23035-23053. [https://doi.org/10.1021/acs.est.6c04293](https://doi.org/10.1021/acs.est.6c04293)
+
 - Schmidt, H., Zhang, M., Chakarov, D., Bansal, V., Mourelatos, H., Sanchez-Rivera, F., Lowe, S., Ventura, A., Leslie, C., Pritykin, Y. Genome-wide CRISPR guide RNA design and specificity analysis with GuideScan2. Genome Biol 26, 41 (2025). [https://doi.org/10.1186/s13059-025-03488-8](https://doi.org/10.1186/s13059-025-03488-8)
 
 - H. Li et al., "How MagNet: Machine Learning Framework for Modeling Power Magnetic Material Characteristics," in IEEE Transactions on Power Electronics, vol. 38, no. 12, pp. 15829-15853, Dec. 2023. [https://ieeexplore.ieee.org/document/10232863](https://ieeexplore.ieee.org/document/10232863)
